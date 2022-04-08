@@ -2,6 +2,8 @@
 
 A Simple WhatsApp Clone made with Flutter.
 
+### Code: [Code](https://github.com/H-R-S/Whatsapp-Clone-Flutter)
+
 ## UI ScreenShots:
 #### Chat List Screen:
 ![chat_list_screen_shot](https://github.com/H-R-S/Flutter-Projects/blob/main/WhatsApp_Clone/ScreenShots/chat_list_screen.JPG)
