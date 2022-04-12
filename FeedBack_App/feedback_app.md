@@ -1,4 +1,4 @@
-# FeedBack App
+# FeedBack-App
 
 ## UI ScreenShots:
 #### Splash Screen:
@@ -21,3 +21,7 @@
 ![feedback history screen](https://github.com/H-R-S/Flutter-Projects/blob/main/FeedBack_App/ScreenShots/feedback_history_screen.jpg)
 #### Profile Screen:
 ![profile screen](https://github.com/H-R-S/Flutter-Projects/blob/main/FeedBack_App/ScreenShots/profile_screen.jpg)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4731e1d (Readme File | FeedBack App)
