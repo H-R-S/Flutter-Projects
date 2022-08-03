@@ -7,6 +7,10 @@
 ![signup screen](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/signup_screen.png)
 #### Reset Password Screen:
 ![reset pass screen](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/reset_password_screen.png)
+#### Home Screen:
+![home screen](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/home_screen.png)
+#### Drawer Screen:
+![drawer screen](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/drawer_screen.png)
 #### Product Screen:
 ![product screen 01](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/product_screen.png)
 ![product screen 02](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/product_screen_2.png)
