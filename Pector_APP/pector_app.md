@@ -31,7 +31,7 @@
 ![preview screen 01](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/checkout_preview_screen_01.png)
 ![preview screen 02](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/checkout_preview_screen_02.png)
 - #### Payment Screen:
-![payment screen](-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/checkout_payment_screen.png)
+![payment screen](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/checkout_payment_screen.png)
 #### Order Screen:
 ![order screen](https://github.com/H-R-S/Flutter-Projects/blob/main/Pector_APP/ScreenShots/checkout_order_screen.png)
 #### Vaccine Screen:
